@@ -1,0 +1,61 @@
+#div1{
+    width: auto;
+    height: 146px;
+    background-image: url(../images/headerbg.jpg);
+    font-size: 30px;
+    line-height: 146px;
+    text-align: center;
+    color: white;
+}
+#div2{
+    width: auto;
+    height:330px;
+    
+}
+#left{
+    width:300px;
+    height:250px;
+    float: left;
+    margin-top: 40px;
+    margin-left:350px;
+}
+span{
+    font-size: 20px;
+    color: red;
+    font-weight: 600;
+}
+.name{
+    width: 268px;
+    height: 36px;
+    margin-top: 15px;
+    border-style: hidden;
+    border-bottom-style:solid;
+    border-bottom-color:#c3c1c2;
+}
+#login{
+    width:300px;
+    height: 36px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 36px;
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#right{
+    float: right;
+    width:240px;;
+    height:240px;
+    background-image: url(../images/loginbg.png);
+    background-size: contain;
+    margin-right: 350px;
+    margin-top: 40px;
+}
+#div3{
+    width: auto;
+    height: 167px;
+    background-color:#121212;
+}

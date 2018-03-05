@@ -1,0 +1,152 @@
+#div1{
+    width: auto;
+    height: 146px;
+    background-image: url(../images/headerbg.jpg);
+    font-size: 30px;
+    line-height: 146px;
+    text-align: center;
+    color: white;
+}
+#div2{
+    width: auto;
+    height: 25px;
+    border-bottom:1px solid gray;
+}
+#div2 ul li a{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+}
+#div2 ul li a:hover{
+    color: red;
+}
+#ul1 li{
+    float: left;
+    list-style: none;
+    padding-left:4%;
+    margin-top: -10px;
+}
+#ul2 li{
+    float: left;
+    list-style: none;
+    padding-left:5px;
+    margin-top: -10px;
+}
+
+#ul{
+    float: left;
+}
+#ul2{
+    float: right;
+    margin-top: 3px;
+    margin-right: 200px;
+}
+#ul1{
+    margin-left: 180px;
+}
+#li1{
+    width: 97px;
+    height: 27px;
+    background-color: red;
+    color: white;
+}
+#li3{
+    width: 40px;
+    height: 27px;
+    background-color: red;
+    color: white;
+}
+#div3{
+    width:1600px;
+    height: 1500px;
+    background-color: #d4d4d4;
+    
+}
+#div3 ul li{
+    list-style: none;
+}
+#div3 input{
+    background-color: red;
+    color: white;
+}
+#div31{
+    width: 600px;
+    height:auto;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+#div32{
+    width: 600px;
+    height: auto;
+    margin-top: 50px;
+    background-color: white;
+    margin-left: 200px;
+}
+#div33{
+    width: 600px;
+    height: auto;
+    margin-top: 50px;
+    background-color: white;
+    margin-left: 200px;
+}
+#div34{
+    margin-left: 440px;
+    margin-top: 20px;
+}
+#div41{
+    width: 300px;
+    height:305px;
+    background-color: white;
+    float: left;
+    margin-left: 830px;
+    margin-top: -1400px;
+}
+#div42{
+    width: 300px;
+    height: 90px;
+    background-color: white;
+    float: left;
+    margin-left: 830px;
+    margin-top: -1000px;
+}
+#div43{
+    width: 300px;
+    height: auto;
+    background-color: white;
+    margin-left: 830px;
+    margin-top: 120px;
+}
+#div43 ul li{
+    list-style: none;
+    margin-left: -20px;
+    margin-top: 10px;
+}
+#div44{
+    width: 300px;
+    height: auto;
+    background-color: white;
+    margin-left: 830px;
+    margin-top: 40px;
+}
+#div44 ul li{
+    list-style: none;
+    margin-left: -20px;
+    margin-top: 10px;
+}
+#span{
+     font-size: 18px;
+    font-weight: 600;
+    margin-left: 830px;
+    margin-top: -1030px;
+}
+#foot{
+    width: auto;
+    height: 167px;
+    background-color:#121212;
+}
+.lable{
+    width:70px;
+    height: 20px;
+    color: white;
+}
